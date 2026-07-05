@@ -1,0 +1,6 @@
+.env
+__pycache__
+venv
+despesas.csv
+despesas.xlsx
+expenses.csv

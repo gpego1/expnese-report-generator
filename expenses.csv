@@ -1,0 +1,44 @@
+date,description,amount,category,payment_method
+2026-03-03,Correios,110.38,,Cartão de Crédito
+2026-03-03,Aluguel Apartamento,885.45,Moradia,Pix
+2026-03-06,Consulta Dentista,185.48,Saúde,Cartão de Débito
+2026-03-07,Internet Vivo Fibra,1573.69,Moradia,Cartão de Crédito
+2026-03-08,Aluguel Apartamento,1822.22,Moradia,Pix
+2026-03-09,Restaurante Japonês Sushi Ko,84.79,Alimentação,Cartão de Débito
+2026-03-13,Pedágio Rodovia,73.33,,Boleto
+2026-03-14,Correios,47.47,,Boleto
+2026-03-17,Combustível Posto Ipiranga,153.69,,Boleto
+2026-03-18,Farmácia Droga Raia,153.13,Saúde,Boleto
+2026-03-20,Presente aniversário,117.95,Outros,Boleto
+2026-03-23,Restaurante Sabor Caseiro,135.45,,Pix
+2026-03-26,Assinatura Spotify,27.82,Lazer,Dinheiro
+2026-03-28,Aluguel Apartamento,573.52,Moradia,Cartão de Crédito
+2026-04-02,Conta de Luz - CPFL,590.65,Moradia,Boleto
+2026-04-04,Material de escritório,59.9,Outros,Cartão de Débito
+2026-04-05,Pet Shop,55.03,Outros,Cartão de Débito
+2026-04-06,Passagem de ônibus,199.68,Transporte,Dinheiro
+2026-04-16,Restaurante Japonês Sushi Ko,247.57,Alimentação,Boleto
+2026-04-16,Assinatura Spotify,23.51,Lazer,Pix
+2026-04-17,Combustível Posto Ipiranga,127.43,Transporte,Cartão de Crédito
+2026-04-17,Material de escritório,139.53,Outros,Boleto
+2026-04-18,Conta de Luz - CPFL,2101.42,Moradia,Boleto
+2026-04-20,Consulta Médica,448.37,,Boleto
+2026-04-22,Cinema Cinemark,149.73,Lazer,Boleto
+2026-04-23,Manutenção do carro,84.15,Transporte,Dinheiro
+2026-04-24,Assinatura Spotify,125.23,Lazer,Boleto
+2026-04-27,Material de escritório,118.62,,Boleto
+2026-05-02,Presente aniversário,78.45,Outros,Pix
+2026-05-02,Cinema Cinemark,137.39,Lazer,Boleto
+2026-05-03,iFood - Pedido,161.53,Alimentação,Pix
+2026-05-03,Uber,179.3,,Cartão de Crédito
+2026-05-05,Manutenção do carro,183.05,Transporte,Boleto
+2026-05-06,Farmácia Droga Raia,189.17,,Dinheiro
+2026-05-06,Restaurante Sabor Caseiro,130.83,,Dinheiro
+2026-05-07,Restaurante Sabor Caseiro,69.21,,Dinheiro
+2026-05-11,Uber,13.09,,Boleto
+2026-05-14,Consulta Dentista,202.66,Saúde,Cartão de Crédito
+2026-05-15,Consulta Dentista,407.84,,Dinheiro
+2026-05-15,Estacionamento Shopping,68.45,Transporte,Cartão de Crédito
+2026-05-18,Pet Shop,38.07,Outros,Boleto
+2026-05-18,Plano de Saúde Unimed,347.21,Saúde,Cartão de Débito
+2026-05-26,Pedágio Rodovia,106.51,,Cartão de Crédito
