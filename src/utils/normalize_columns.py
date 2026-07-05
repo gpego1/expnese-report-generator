@@ -1,4 +1,5 @@
 import pandas as pd
+
 COLUMN_POSSIBLES = {
     "data": ["data", "date", "dt", "dt_lancamento"],
     "descricao": ["descricao", "descrição", "description", "historico"],
@@ -17,8 +18,10 @@ def normalize_columns(df: pd.DataFrame):
 
     for default_name, possibles in COLUMN_POSSIBLES.items():
         column = resolve_columns(df, possibles)
+
         if column == None:
             missing.append(column)
+
         elif column == default_name:
             rename_map[column] = default_name
         

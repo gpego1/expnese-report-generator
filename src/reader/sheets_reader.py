@@ -2,6 +2,7 @@ import pandas as pd
 import gspread
 from google.oauth2.service_account import Credentials
 from ..utils.normalize_columns import normalize_columns
+from ..processor.categorizer import update_sheet
 from dotenv import load_dotenv
 from pathlib import Path
 import os
@@ -32,4 +33,8 @@ spreadsheet_data = spreadsheet.get_all_records()
 def read_spreadsheet():
     df = pd.DataFrame(spreadsheet_data)
     normalized_df = normalize_columns(df)
-    return normalized_df
+    data_to_update = update_sheet(normalized_df)
+
+
+    return data_to_update
+

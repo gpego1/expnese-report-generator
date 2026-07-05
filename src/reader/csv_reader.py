@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from ..utils.normalize_columns import normalize_columns
         
 
